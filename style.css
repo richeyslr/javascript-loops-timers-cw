@@ -1,9 +1,13 @@
 img{
-  
+  margin-bottom: 430px;
 }
 #container{
   display: flex;
   align-items: center;
   justify-content: center;
   padding: 15%;
+  background-image: url("./World1.png");
+  background-position: ;
+  height: 300px;
+  width: 700px;
 }

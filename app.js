@@ -35,8 +35,6 @@ document.body.addEventListener(
       rightPress = setInterval(walkRight, 300);
     }
     else if(evt.key === " "){
-      // resetInt(rightPress);
-      // resetInt(leftPress);
      jump();
      setTimeout(landing, 500);
     }
